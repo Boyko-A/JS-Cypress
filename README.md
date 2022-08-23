@@ -1,2 +1,1 @@
-# cypress.js
-Примеры автотестов на cypress
+# Автотесты JS Cypress
